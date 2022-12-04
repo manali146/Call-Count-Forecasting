@@ -1,5 +1,8 @@
 # Call-Count-Forecasting
 
+<h2> Project Description: </h2>
+<p>This is Time Series Analysis part for my Master Thesis, conducted on 'New York' city's call center for call volume forecasting.
+
 <h2> 1. Exploratory Data Analysis </h2>
   <p> 1.1. Data Creation with SOAD-API</p>
   <p> 1.2. Data Visualization</p>
