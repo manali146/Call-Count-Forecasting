@@ -12,3 +12,4 @@
   <p> 2.1. Moving Averages on Non-stationary data</p>
   <p> 2.2. Time Series Decomposition</p>
   <p> 2.3. Moving Averages on Stationary data</p>
+  <p> 2.4. Holt-Winter's Exponential Smoothing</p>
